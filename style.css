@@ -43,3 +43,10 @@ img {
 h2 {
     color: aliceblue;
 }
+
+a {
+    color: rgb(73, 81, 147)
+}
+a:hover {
+    color: rgb(230, 224, 224);
+}
