@@ -1,9 +1,11 @@
 body {
     background-image: url(https://cdn.wallpapersafari.com/81/80/H7cVyn.jpg);
     text-align: center;
+    background-color: rgb(68, 78, 225);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-repeat: repeat;
-    color:darkcyan
+    color:darkcyan;
+    margin: 2 0px;
 }
 
 h1 {
@@ -47,6 +49,7 @@ h2 {
 a {
     color: rgb(73, 81, 147)
 }
+
 a:hover {
     color: rgb(230, 224, 224);
 }
