@@ -39,7 +39,8 @@ img {
     border-radius: 8px; 
     display: block; 
     margin: 0 auto 1em auto; 
-    box-shadow: rgba(0, 0, 0, 0.4) -5px 5px; 
+    box-shadow: rgba(0, 0, 0, 0.4) -5px 5px;
+
 }
 
 h2 {
@@ -52,4 +53,8 @@ a {
 
 a:hover {
     color: rgb(230, 224, 224);
+}
+
+image:hover {
+    width: 500px;
 }
